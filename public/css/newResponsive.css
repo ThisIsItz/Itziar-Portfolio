@@ -1,0 +1,11 @@
+@media screen and (min-width:1000px){
+    #photo{
+        display: block;
+    }
+}
+
+@media screen and (max-width:950px){
+    #photo{
+        margin-top: 30vh;
+    }
+}

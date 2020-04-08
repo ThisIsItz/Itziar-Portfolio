@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+html, body {
+    height: 100%;
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.nav-link:hover {
+    color: aliceblue !important;
+}
+
+.landing {
+    height: 100vh;
+    background: url('https://image.freepik.com/foto-gratis/diseno-web-html-php-codigo-fuente_118557-15.jpg');
+    /*Vector created by GarryKillian - www.freepik.es*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+#info{
+    margin-top: 30vh;
+}
+
+#myname{
+    font-weight: 800;
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+}
+
+#photo {
+    margin-top: 25vh;
+    display: none;
+}
+
+#yo{
+    max-width: 50%;
+}
+
+#skills{
+    height: 90vh;
+    background-color:#b2dfdb;
+}
+
+i {
+    font-size: 130px;
+    width: 100px;
+    color: teal;
+}
+
+.title{
+    font-family: 'Righteous', cursive;
+    color:#005354;
+}
+
+p{
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+.row {
+    margin: 0;
+  }
+
+.navbar {
+    padding: 0 !important;
+}
+
+.text-icon{
+    font-weight: bold;
+    font-size: 30px;
+    color: #005354;
+}

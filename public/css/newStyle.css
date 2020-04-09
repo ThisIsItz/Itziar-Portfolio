@@ -81,3 +81,9 @@ p{
     font-size: 30px;
     color: #005354;
 }
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}

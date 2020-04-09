@@ -14,10 +14,6 @@ const App = () => {
                 id="projects"
                 title="MY PROJECTS"
             />
-            <Section
-                id="aboutme"
-                title="ABOUT ME"
-            />
         </div>
     )
 }

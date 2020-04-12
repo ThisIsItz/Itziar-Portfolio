@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
+import Icon from './Icon'
 
 const Header = () => {
     return(
@@ -10,13 +11,23 @@ const Header = () => {
                         <div id="info" className="col-lg-6 col-12">
                             <h1 id="myname">Itziar Urbieta León</h1>
                             <h2>Front-end Developer</h2>
-                            <div className="row">
-                            <div className="col-2 border border-dark">H</div>
-                            <div className="col-2 border border-dark">H</div>
-                            <div className="col-2 border border-dark">H</div>
-                            <div className="col-2 border border-dark">H</div>
-                            <div className="col-2 border border-dark">H</div>
-                            <div className="col-2 border border-dark">H</div>
+                            <div className="row mt-3">
+                                <Icon 
+                                    icon="linkedin"
+                                    link="https://www.linkedin.com/in/itziarurbieta/"
+                                />
+                                <Icon 
+                                    icon="github"
+                                    link="https://github.com/ThisIsItz"
+                                />
+                                <Icon 
+                                    icon="twitter"
+                                    link="https://twitter.com/ItUnderTheSea"
+                                />
+                                <Icon 
+                                    icon="dev"
+                                    link="https://dev.to/thisisitz"
+                                />
                             </div>
                         </div>
                         <div id="photo" className="col-5 text-center mx-auto">

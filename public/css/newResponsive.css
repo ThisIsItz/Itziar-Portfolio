@@ -9,3 +9,11 @@
         margin-top: 30vh;
     }
 }
+
+@media (max-width: 767px) {
+    .card {
+      margin: 0 auto;
+      display: block;
+    }
+  }
+  

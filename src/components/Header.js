@@ -28,6 +28,14 @@ const Header = () => {
                                     icon="dev"
                                     link="https://dev.to/thisisitz"
                                 />
+                                <Icon
+                                    icon="mail"
+                                    link="mailto:itziarurbieta94@gmail.com"
+                                />
+                                                                <Icon
+                                    icon="cv"
+                                    link="./pdf/itziar_urbieta_cv.pdf"
+                                />
                             </div>
                         </div>
                         <div id="photo" className="col-5 text-center mx-auto">

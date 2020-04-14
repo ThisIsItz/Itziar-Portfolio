@@ -42,6 +42,7 @@ html, body {
 
 #yo{
     max-width: 50%;
+    border: 3px solid #f8f9fa;
 }
 
 #skills{

@@ -3,25 +3,43 @@ import ProjectCard from './ProjectCard'
 
 const Projects = () => {
     return(
-        <div className="container">
-            <div className="row pt-5">
+        <div className="container pt-5">
+            <div className="row">
                 <ProjectCard
-                    name="First Project"
-                    img="https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png"
-                    description="This is my first project."
-                    href=""
+                    name="Snake game"
+                    img="./img/snake-game.png"
+                    description="First project made in Vanilla JavaScript"
+                    href="https://github.com/ThisIsItz/snake-game"
                 />
                 <ProjectCard
-                    name="Second Project"
-                    img="https://cdn.pixabay.com/photo/2017/06/10/07/15/joystick-2389216_960_720.png"
-                    description="This is my second project."
-                    href=""
+                    class="weather"
+                    name="Weather Journal App"
+                    img="./img/wjasmall.png"
+                    description="Description here"
+                    href="https://github.com/ThisIsItz/weather-journal-app"
                 />
+            </div>
+            <div className="row">
                 <ProjectCard
-                    name="Third Project"
-                    img="https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png"
-                    description="This is my third project."
-                    href=""
+                    class="travel"
+                    name="Travel App"
+                    img="./img/travelappclose.png"
+                    description="Travel application that uses the information incoming from the user to show him some information about the trip."
+                    href="https://github.com/ThisIsItz/travelapp"
+                />
+                <ProjectCard 
+                    name="Natural Language Processing"
+                    img="./img/nlp.png"
+                    description="News Article Sentiment Analysis webs application"
+                    href="https://github.com/ThisIsItz/NLP-API"
+                />
+            </div>
+            <div className="row">
+                <ProjectCard
+                    name="Streaming Video App"
+                    img="./img/streamblog.png"
+                    description="I don't know"
+                    href="https://github.com/ThisIsItz/streaming-video"
                 />
             </div>
         </div>

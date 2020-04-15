@@ -82,12 +82,30 @@ p{
     color: #005354;
 }
 
+
+.project-card{
+    height: 100% !important;
+}
+
+.card{
+    margin: auto;
+} 
+
 .card-img-top {
-    width: 100%;
-    height: 15vw;
-    object-fit: cover;
+    max-height: 500px;
+    min-height: 500px;
+    object-fit: contain;
+}
+
+.card-title{
+    font-weight: bold;
 }
 
 #footer{
     background-color: #F4F7F7;
 }
+
+.weather, .travel{
+    object-fit: cover !important;
+}
+

@@ -24,7 +24,7 @@ const Projects = () => {
                     class="travel"
                     name="Travel App"
                     img="./img/travelappclose.png"
-                    description="Travel application that uses the information incoming from the user to displays some information about the trip"
+                    description="Travel application that uses the information incoming from the user to displays some information about the trip (weather in the city, a photo of the city...)"
                     href="https://github.com/ThisIsItz/travelapp"
                 />
                 <ProjectCard 

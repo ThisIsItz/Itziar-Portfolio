@@ -32,7 +32,7 @@ const Header = () => {
                                     icon="mail"
                                     link="mailto:itziarurbieta94@gmail.com"
                                 />
-                                                                <Icon
+                                <Icon
                                     icon="cv"
                                     link="./pdf/itziar_urbieta_cv.pdf"
                                 />

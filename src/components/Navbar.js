@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link, animateScroll as scroll } from "react-scroll";
 
 const Navbar = () => {
     return(
@@ -12,15 +13,37 @@ const Navbar = () => {
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item active">
-                                <a className="nav-link" href="#">Home
-                                    <span className="sr-only">(current)</span>
-                                </a>
+                                <Link
+                                    className="nav-link"
+                                    activeClass=""
+                                    to="landing"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={-70}
+                                    duration= {500}
+                                >Home</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#skills">Skills</a>
+                            <Link
+                                className="nav-link"
+                                activeClass=""
+                                to="skills"
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration= {500}
+                                >Skills</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#projects">My projects</a>
+                            <Link
+                                className="nav-link"
+                                activeClass=""
+                                to="projects"
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration= {500}
+                                >My projects</Link>
                             </li>
                         </ul>
                     </div>

@@ -34,7 +34,7 @@ const Header = () => {
                                 />
                                 <Icon
                                     icon="cv"
-                                    link="./pdf/itziar_urbieta_cv.pdf"
+                                    link="./pdf/itziar_urbieta.pdf"
                                 />
                             </div>
                         </div>

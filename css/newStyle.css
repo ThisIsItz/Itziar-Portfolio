@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+html, body {
+    height: 100%;
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.nav-link:hover {
+    color: aliceblue !important;
+}
+
+.landing {
+    height: 100vh;
+    background: url('https://image.freepik.com/foto-gratis/diseno-web-html-php-codigo-fuente_118557-15.jpg');
+    /*Vector created by GarryKillian - www.freepik.es*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+#info{
+    margin-top: 30vh;
+}
+
+#myname{
+    font-weight: 800;
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+}
+
+#photo {
+    margin-top: 25vh;
+    display: none;
+}
+
+#yo{
+    max-width: 50%;
+    border: 3px solid #f8f9fa;
+}
+
+#skills{
+    background-color:#AEEDF1;
+}
+
+#projects{
+    background-color: #7FD9E0;
+}
+
+i {
+    font-size: 130px;
+    width: 100px;
+    color: teal;
+}
+
+.title{
+    font-family: 'Righteous', cursive;
+    color:#005354;
+}
+
+p{
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+.row {
+    margin: 0;
+  }
+
+.navbar {
+    padding: 0 !important;
+}
+
+.text-icon{
+    font-weight: bold;
+    font-size: 30px;
+    color: #005354;
+}
+
+
+.project-card{
+    height: 100% !important;
+}
+
+.card{
+    margin: auto;
+} 
+
+.card-img-top {
+    max-height: 500px;
+    min-height: 500px;
+    object-fit: contain;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.card-body{
+    min-height: 200px;
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+#footer{
+    background-color: #F4F7F7;
+}
+
+.weather, .travel{
+    object-fit: cover !important;
+}
+

@@ -15,7 +15,7 @@ const Projects = () => {
                     class="weather"
                     name="Weather Journal App"
                     img="./img/wjasmall.png"
-                    description="Weather Journal App that allows user to get the actual weather from a place using the zip code from this place"
+                    description="Weather application that allows user to get the actual weather from a place using the zip code from this place (only works with US zip codes)"
                     href="https://github.com/ThisIsItz/weather-journal-app"
                 />
             </div>

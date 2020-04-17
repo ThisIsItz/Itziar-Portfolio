@@ -3,7 +3,6 @@ import Skill from './Skill'
 
 const Skills = () => {
     return(
-        <div>
         <div className="row mt-5">
             <Skill 
                 icon="devicon-html5-plain"
@@ -22,12 +21,12 @@ const Skills = () => {
             />
             <Skill 
                 icon="devicon-react-original"
-                col="col-6 col-md-5"
+                col="col-7 col-md-5"
                 title="React"
             />
             <Skill 
                 icon="devicon-git-plain"
-                col="col-6 col-md-5"
+                col="col-5"
                 title="Git"
             />
         </div>

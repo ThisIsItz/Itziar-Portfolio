@@ -7,17 +7,17 @@ const Skills = () => {
         <div className="row mt-5">
             <Skill 
                 icon="devicon-html5-plain"
-                col="col-4"
+                col="col-6 col-md-4"
                 title="HTML5"
             />
             <Skill 
                 icon="devicon-css3-plain"
-                col="col-4"
+                col="col-6 col-md-4"
                 title="CSS3"
             />
             <Skill 
                 icon="devicon-javascript-plain"
-                col="col-4"
+                col="col-6 col-md-4"
                 title="JavaScript"
             />
         </div>

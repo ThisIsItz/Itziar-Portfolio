@@ -2,6 +2,10 @@
     #photo{
         display: block;
     }
+
+    .header{
+        padding: 3rem !important;
+    }
 }
 
 @media screen and (max-width:950px){

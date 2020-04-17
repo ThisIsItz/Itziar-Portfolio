@@ -11,8 +11,13 @@ html, body {
     padding-right: 0px !important;
 }
 
+.nav-link{
+    text-align: center;
+}
+
 .nav-link:hover {
     color: aliceblue !important;
+    cursor: pointer;
 }
 
 .landing {
@@ -24,6 +29,9 @@ html, body {
     color: white;
 }
 
+.navbar-toggler{
+    margin-right: 20px;
+}
 
 #info{
     margin-top: 30vh;
@@ -96,8 +104,8 @@ p{
 } 
 
 .card-img-top {
-    max-height: 300px;
-    min-height: 300px;
+    max-height: 400px;
+    min-height: 400px;
     object-fit: contain;
 }
 
@@ -119,11 +127,4 @@ p{
 
 .weather, .travel{
     object-fit: cover !important;
-}
-
-
-@media (max-width: 991.98px){
-    .navbar-expand-lg>.container{
-        padding-right: auto !important;
-    }
 }

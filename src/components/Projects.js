@@ -14,7 +14,7 @@ const Projects = () => {
                 <ProjectCard
                     class="weather"
                     name="Weather Journal App"
-                    img="./img/wjasmall.png"
+                    img="./img/wjasmall2.png"
                     description="Weather application that allows user to get the actual weather from a place using the zip code from this place (only works with US zip codes)"
                     href="https://github.com/ThisIsItz/weather-journal-app"
                 />
@@ -23,7 +23,7 @@ const Projects = () => {
                 <ProjectCard
                     class="travel"
                     name="Travel App"
-                    img="./img/travelappclose.png"
+                    img="./img/ta.png"
                     description="Travel application that uses the information incoming from the user to displays some information about the trip (weather in the city, a photo of the city...)"
                     href="https://github.com/ThisIsItz/travelapp"
                 />

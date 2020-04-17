@@ -9,7 +9,7 @@ const Navbar = () => {
                     <Link
                         className="nav-link"
                         activeClass=""
-                        to="home"
+                        to="landing"
                         spy={true}
                         smooth={true}
                         offset={-70}

@@ -7,7 +7,7 @@ const Header = () => {
         <div className="landing">
                 <Navbar />
                 <div className="container">
-                    <div className="row p-5">
+                    <div className="row header">
                         <div id="info" className="col-lg-6 col-12">
                             <h1 id="myname">Itziar Urbieta León</h1>
                             <h2>Front-end Developer</h2>

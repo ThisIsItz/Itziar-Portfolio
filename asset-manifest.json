@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Itziar-Portfolio/static/js/main.43eab449.chunk.js",
-    "main.js.map": "/Itziar-Portfolio/static/js/main.43eab449.chunk.js.map",
+    "main.js": "/Itziar-Portfolio/static/js/main.7640738b.chunk.js",
+    "main.js.map": "/Itziar-Portfolio/static/js/main.7640738b.chunk.js.map",
     "runtime-main.js": "/Itziar-Portfolio/static/js/runtime-main.206ea36e.js",
     "runtime-main.js.map": "/Itziar-Portfolio/static/js/runtime-main.206ea36e.js.map",
     "static/js/2.e5c0d768.chunk.js": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js",
     "static/js/2.e5c0d768.chunk.js.map": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js.map",
     "index.html": "/Itziar-Portfolio/index.html",
-    "precache-manifest.395f1c49ce54c7cc62506a0feeaed4aa.js": "/Itziar-Portfolio/precache-manifest.395f1c49ce54c7cc62506a0feeaed4aa.js",
+    "precache-manifest.9009f829a2300b17b9dea976bee14609.js": "/Itziar-Portfolio/precache-manifest.9009f829a2300b17b9dea976bee14609.js",
     "service-worker.js": "/Itziar-Portfolio/service-worker.js",
     "static/js/2.e5c0d768.chunk.js.LICENSE.txt": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.206ea36e.js",
     "static/js/2.e5c0d768.chunk.js",
-    "static/js/main.43eab449.chunk.js"
+    "static/js/main.7640738b.chunk.js"
   ]
 }

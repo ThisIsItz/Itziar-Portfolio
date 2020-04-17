@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Itziar-Portfolio/static/js/main.4ad8691b.chunk.js",
-    "main.js.map": "/Itziar-Portfolio/static/js/main.4ad8691b.chunk.js.map",
+    "main.js": "/Itziar-Portfolio/static/js/main.79969303.chunk.js",
+    "main.js.map": "/Itziar-Portfolio/static/js/main.79969303.chunk.js.map",
     "runtime-main.js": "/Itziar-Portfolio/static/js/runtime-main.206ea36e.js",
     "runtime-main.js.map": "/Itziar-Portfolio/static/js/runtime-main.206ea36e.js.map",
-    "static/js/2.e5c0d768.chunk.js": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js",
-    "static/js/2.e5c0d768.chunk.js.map": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js.map",
+    "static/js/2.58447fb9.chunk.js": "/Itziar-Portfolio/static/js/2.58447fb9.chunk.js",
+    "static/js/2.58447fb9.chunk.js.map": "/Itziar-Portfolio/static/js/2.58447fb9.chunk.js.map",
     "index.html": "/Itziar-Portfolio/index.html",
-    "precache-manifest.9f43272f3b02c5a23f7531a892f1fe04.js": "/Itziar-Portfolio/precache-manifest.9f43272f3b02c5a23f7531a892f1fe04.js",
+    "precache-manifest.6a461d5e8b48f436fe76ff48e8551483.js": "/Itziar-Portfolio/precache-manifest.6a461d5e8b48f436fe76ff48e8551483.js",
     "service-worker.js": "/Itziar-Portfolio/service-worker.js",
-    "static/js/2.e5c0d768.chunk.js.LICENSE.txt": "/Itziar-Portfolio/static/js/2.e5c0d768.chunk.js.LICENSE.txt"
+    "static/js/2.58447fb9.chunk.js.LICENSE.txt": "/Itziar-Portfolio/static/js/2.58447fb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.206ea36e.js",
-    "static/js/2.e5c0d768.chunk.js",
-    "static/js/main.4ad8691b.chunk.js"
+    "static/js/2.58447fb9.chunk.js",
+    "static/js/main.79969303.chunk.js"
   ]
 }

@@ -20,21 +20,16 @@ const Skills = () => {
                 col="col-6 col-md-4"
                 title="JavaScript"
             />
-        </div>
-        <div className="row mt-5">
-            <div className="col-1">
-            </div>
             <Skill 
                 icon="devicon-react-original"
-                col="col-5"
+                col="col-6 col-md-5"
                 title="React"
             />
             <Skill 
                 icon="devicon-git-plain"
-                col="col-5"
+                col="col-6 col-md-5"
                 title="Git"
             />
-        </div>
         </div>
     )
 }

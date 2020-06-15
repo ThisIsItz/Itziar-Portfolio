@@ -39,7 +39,7 @@ const Header = () => {
                             </div>
                         </div>
                         <div id="photo" className="col-5 text-center mx-auto">
-                            <img id="yo" src="./img/yo.jpg" className="img-fluid z-depth-1 rounded-circle"
+                            <img id="yo" className="img-fluid z-depth-1 rounded-circle"
                               alt="Me"/>
                         </div>
                     </div>

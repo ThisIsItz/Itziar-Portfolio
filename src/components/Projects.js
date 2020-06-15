@@ -14,7 +14,7 @@ const Projects = () => {
                 <ProjectCard
                     class="weather"
                     name="Weather Journal App"
-                    img="./img/wjasmall2.png"
+                    img="https://d500.epimg.net/cincodias/imagenes/2018/11/13/lifestyle/1542113135_776401_1542116070_noticia_normal.jpg"
                     description="Weather application that allows user to get the actual weather from a place using the zip code from this place (only works with US zip codes)"
                     href="https://github.com/ThisIsItz/weather-journal-app"
                 />

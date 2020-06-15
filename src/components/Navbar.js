@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, animateScroll as scroll } from "react-scroll";
+import Logo from '../assets/logo.png'
 
 const Navbar = () => {
     return(
@@ -14,7 +15,7 @@ const Navbar = () => {
                         smooth={true}
                         offset={-70}
                         duration= {500}
-                         ><img className="logo" src="img/logo.png" alt="logo"/>
+                         ><img className="logo" src={Logo} alt="logo"/>
                     </Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>

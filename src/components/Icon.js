@@ -4,7 +4,7 @@ const Icon = (props) => {
     return(
         <div className="col-4 col-md-2 mt-3">
             <a href={props.link} target="_blank" rel="noopener noreferrer">
-                <img src={`../assets/${props.icon}.png`} alt={props.icon}/>
+                <img src={props.source} alt={props.icon}/>
             </a>
         </div>
     )

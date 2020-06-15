@@ -21,12 +21,12 @@ const Skills = () => {
             />
             <Skill 
                 icon="devicon-react-original"
-                col="col-6"
+                col="col-4 offset-2"
                 title="React"
             />
             <Skill 
                 icon="devicon-git-plain"
-                col="col-6"
+                col="col-4"
                 title="Git"
             />
         </div>

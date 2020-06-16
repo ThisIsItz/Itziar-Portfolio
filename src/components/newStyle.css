@@ -86,6 +86,7 @@ p{
 
 .navbar {
     padding: 0 !important;
+    background-color: #242424;
 }
 
 .text-icon{
@@ -128,3 +129,27 @@ p{
 .weather, .travel{
     object-fit: cover !important;
 }
+
+@media screen and (min-width:1000px){
+    #photo{
+        display: block;
+    }
+
+    .header{
+        padding: 3rem !important;
+    }
+}
+
+@media screen and (max-width:950px){
+    #photo{
+        margin-top: 30vh;
+    }
+}
+
+@media (max-width: 767px) {
+    .card {
+      margin: 0 auto;
+      display: block;
+    }
+  }
+  

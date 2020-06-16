@@ -5,7 +5,7 @@ import Logo from '../assets/logo.png'
 const Navbar = () => {
     return(
         <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
                 <div className="container">
                     <Link
                         className="nav-link"

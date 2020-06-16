@@ -2,7 +2,6 @@ import React from 'react'
 import Header from './Header'
 import Section from './Section'
 import Footer from './Footer'
-import './newResponsive.css'
 import './newStyle.css'
 
 const App = () => {

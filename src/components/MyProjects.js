@@ -3,11 +3,20 @@ import weather from '../assets/wjasmall2.png'
 import travel from '../assets/ta.png'
 import nlp from '../assets/nlp.png'
 import snakegame from '../assets/snake-game.png'
+import tetrisgame from '../assets/tetris.png'
+import belmont from '../assets/BelmontGrange.png'
 
 
 // Add projects at the top of the array, not the bottom, to show more recent first on Portfolio.
 
 const myprojects = [
+    {
+        name: "Belmont Grange Template",
+        description: "Responsive Website Template for a company called Belmont Grange",
+        github: "https://github.com/ThisIsItz/Template-BelmontGrange",
+        img: belmont,
+        className: '',
+    },
     {
         name:"Streaming Video App",
         description:"Streaming Video App that streams your own streaming using a RTMP server, and allows you to create, edit or delete your streams. Developed using React",
@@ -41,6 +50,13 @@ const myprojects = [
         github: "https://github.com/ThisIsItz/snake-game",
         img: snakegame,
         className: ''
+    },
+    {
+        name: "Tetris game",
+        description: "Tetris game made using Vanilla JavaScript",
+        github: "https://github.com/ThisIsItz/tetris",
+        img: tetrisgame,
+        className: '',
     }
 
 ]
